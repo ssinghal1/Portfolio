@@ -24,7 +24,7 @@ function Projects() {
               imgPath={em}
               isBlog={false}
               title="Employee management "
-              description="Performs CRUD operations on employee entity "
+              description="Performs CRUD operations on employee entity. "
               ghLink="https://github.com/ssinghal1/Employee_management_frontend"
              
             />
